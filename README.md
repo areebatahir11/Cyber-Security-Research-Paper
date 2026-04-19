@@ -19,7 +19,7 @@ The central argument is that while **decentralization** protects blockchain netw
 | File | Description |
 |------|-------------|
 | `BITF22M011_ResearchPaper.pdf` | Full research paper (IEEE format) |
-| `ResearchPurposal-BITF22M011.pdf` | Research proposal (one-pager) |
+| `ResearchPurposal_BITF22M011.pdf` | Research proposal (one-pager) |
 | `presentation.pptx` | Research presentation slides |
 
 ---
