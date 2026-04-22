@@ -54,10 +54,9 @@ All sources accessed via Google Scholar, IEEE Xplore, Springer, and other academ
 | [3] | DTIC Technical Report — [Quantum Computing & Blockchain Security](https://apps.dtic.mil/sti/html/trecms/AD1125436/) |
 | [4] | IEEE — [Post-Quantum Cryptography for Blockchain](https://ieeexplore.ieee.org/abstract/document/9189608/) |
 | [5] | Elita Journal — [Quantum Resistance in Distributed Ledgers](https://www.elita.uz/jurnal/article/view/37) |
-| [6] | Wiley — [Cryptographic Challenges in the Quantum Era](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394213948.ch18) |
-| [7] | Springer — [Blockchain & PQC Migration](https://link.springer.com/article/10.1186/s40854-025-00751-6) |
-| [8] | PACIS 2021 — [Quantum Computing Impact on Blockchain](https://aisel.aisnet.org/pacis2021/114/) |
-| [9] | PLOS ONE — [Quantum Threats to Cryptographic Systems](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302325) |
+| [6] | Springer — [Blockchain & PQC Migration](https://link.springer.com/article/10.1186/s40854-025-00751-6) |
+| [7] | PACIS 2021 — [Quantum Computing Impact on Blockchain](https://aisel.aisnet.org/pacis2021/114/) |
+| [8] | PLOS ONE — [Quantum Threats to Cryptographic Systems](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302325) |
 
 ---
 
